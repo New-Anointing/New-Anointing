@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @New-Anointing
-- 👀 I’m interested in a developer position in front-end web dev relating to html, css, js, react.js and also an internship position in back-end web-dev in C# Asp.net core and Entity Frame work
-- 🌱 I’m currently learning C# Asp.NetCore EfCore
+- 👀 I’m interested in a developer position in back-end web-dev in C# Asp.net core and Entity Frame work
+ 
 - 📫 How to reach me aremunewanointing@gmail.com, aremunewanointing@outlook.com,are.newanointing@outlook.com, +2348106917791
 
 <!---
